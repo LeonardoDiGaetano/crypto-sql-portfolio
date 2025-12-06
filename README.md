@@ -29,7 +29,7 @@ The structure and methodology match what is expected from a **Data Scientist / D
 ---
 
 ## 🗂️ Repository Structure
-
+```
 crypto-sql-portfolio/
 │
 ├── sql/
@@ -52,8 +52,7 @@ crypto-sql-portfolio/
 │ └── (other visualizations)
 │
 └── README.md
-
-
+```
 ---
 
 ## 🛠️ Pipeline Architecture
