@@ -198,6 +198,6 @@ MIT License (or others depending on your preference)
 
 👤 Author
 
-Leonardo Di Gaetano
+Leonardo Di Gaetano, PhD
 Data Scientist | Network Science | Time-Series Analytics
 
