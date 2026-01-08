@@ -15,17 +15,6 @@ Starting from raw OHLC time-series for hundreds of tokens, the pipeline:
 5. **Computes key network metrics**  
 6. **Generates analytical charts** in the `reports/` directory  
 
-This repository demonstrates practical skills in:
-
-- SQL & relational data modeling  
-- Python data processing (pandas, numpy)  
-- ETL orchestration  
-- Network analysis (NetworkX)  
-- Data visualization (matplotlib)  
-- Production-style pipeline design  
-
-The structure and methodology match what is expected from a **Data Scientist / Data Analyst** working in finance, crypto analytics, or consultancy.
-
 ---
 
 ## 🗂️ Repository Structure
